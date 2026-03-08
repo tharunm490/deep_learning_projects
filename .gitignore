@@ -1,0 +1,21 @@
+# Image datasets - too large for GitHub
+PetImages/
+**/PetImages/
+*.zip
+
+# Augmented images
+augmented_images/
+**/augmented_images/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Model weights
+*.h5
+*.keras
+*.pb
+*.ckpt
+saved_model/

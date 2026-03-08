@@ -1,0 +1,11 @@
+# Normalize line endings to LF in the repository
+* text=auto eol=lf
+
+# Jupyter notebooks - treat as text with LF
+*.ipynb text eol=lf
+
+# CSV files
+*.csv text eol=lf
+
+# Markdown
+*.md text eol=lf
